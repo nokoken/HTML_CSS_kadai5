@@ -1,0 +1,104 @@
+header .h1 {
+    margin: 20px;
+    text-align: center;
+}
+
+header .p-list {
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+header .all-list {
+    text-align: center;
+}
+
+.green-sikaku div,
+.yellow-sikaku div,
+.blue-sikaku div {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    display: inline-block;
+}
+
+.green-sikaku {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.e6 {
+    background-color: #e6ffe9;
+}
+
+.cd {
+    background-color: #cdffd3;
+}
+
+.ae {
+    background-color: #aeffbd;
+}
+
+._93 {
+    background-color: #93ffab;
+}
+
+.yellow-sikaku {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.f3 {
+    background-color: #f3ffd8;
+}
+
+.ed {
+    background-color: #edffbe;
+}
+
+.e9 {
+    background-color: #e9ffa5;
+}
+
+.e4 {
+    background-color: #e4ff8d;
+}
+
+.blue-sikaku {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.d9 {
+    background-color: #d9e5ff;
+}
+
+.ba {
+    background-color: #bad3ff;
+}
+
+.a4 {
+    background-color: #a4c6ff;
+}
+
+._8e {
+    background-color: #8eb8ff;
+}
+
+.inc-text {
+    background-color: #848282;
+    width: 100%;
+    height: 120px;
+    text-align: center;
+    line-height: 120px;
+
+}
+
+.footer-text {
+    color: #fff;
+}
